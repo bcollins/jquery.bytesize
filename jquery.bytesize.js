@@ -108,5 +108,6 @@
 
             return { q: q, pow: pow };
         }
+        return this;
     };
 })(jQuery);
